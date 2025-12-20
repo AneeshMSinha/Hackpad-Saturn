@@ -8,3 +8,11 @@ This was an interesting and challenging project, was my first timee learning how
 ## Case
 <img width="2041" height="1105" alt="Screenshot 2025-12-20 001712" src="https://github.com/user-attachments/assets/1eae831a-a063-4332-95bd-2513543f3f05" />
 ## Bill of Materials
+1 XIAO RP 2040 DIP
+1 EC11 Rotary Encoder
+1 SSD1306-0.91-OLED
+1 PCB (black)
+11 Cherry MX switches
+11 Keycaps
+12 DO-35 Diodes
+
