@@ -1,2 +1,8 @@
 # Hackpad-Saturn
-My repository for the Hack club Blueprint Hackpad
+My repository for Hack club, blueprint hackpad, called Saturn
+## PCB
+| Schematic | PCB |
+|----------|----------|
+|  <img width="1308" height="895" alt="Screenshot 2025-12-20 001840" src="https://github.com/user-attachments/assets/1139654c-de99-484e-a57b-cc77212c9e34" /> | <img width="2197" height="1168" alt="Screenshot 2025-12-20 001928" src="https://github.com/user-attachments/assets/ef524189-235d-4a53-b278-67dc2e5944cb" />|
+## Case
+<img width="2041" height="1105" alt="Screenshot 2025-12-20 001712" src="https://github.com/user-attachments/assets/1eae831a-a063-4332-95bd-2513543f3f05" />
