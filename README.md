@@ -10,11 +10,11 @@ This was an interesting and challenging project, was my first timee learning how
 
 ## Bill of materials
 
-1 XIAO RP 2040 DIP
-1 EC11 Rotary Encoder
-1 SSD1306-0.91-OLED
-1 PCB (black)
-11 Cherry MX switches
-11 Keycaps
-12 DO-35 Diodes
+- 1 XIAO RP 2040 DIP
+- 1 EC11 Rotary Encoder
+- 1 SSD1306-0.91-OLED
+- 1 PCB (black)
+- 11 Cherry MX switches
+- 11 Keycaps
+- 12 DO-35 Diodes
 
