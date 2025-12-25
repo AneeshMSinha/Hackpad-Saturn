@@ -1,6 +1,6 @@
 # Hackpad-Saturn
 My repository for Hack club, blueprint hackpad, called Saturn
-This was an interesting and challenging project, was my first timee learning how to use Kicad and QMK.
+This was an interesting and challenging project, was my first timee learning how to use Kicad and KMK.
 ## PCB
 | Schematic | PCB |
 |----------|----------|
