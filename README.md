@@ -21,4 +21,5 @@ This was an interesting and challenging project, was my first timee learning how
 - 11 Cherry MX switches
 - 11 Keycaps
 - 12 DO-35 Diodes
+- 1 3D printed case
 
