@@ -8,6 +8,7 @@ This was an interesting and challenging project, was my first timee learning how
 ## Case
 <img width="2041" height="1105" alt="Screenshot 2025-12-20 001712" src="https://github.com/user-attachments/assets/1eae831a-a063-4332-95bd-2513543f3f05" />
 <img width="1648" height="896" alt="image" src="https://github.com/user-attachments/assets/ad0e65fd-55a5-4c93-8abc-8006630f0b48" />
+<img width="1294" height="813" alt="image" src="https://github.com/user-attachments/assets/5dd8af23-2564-4f42-992e-245efc3ff8fc" />
 
 
 
